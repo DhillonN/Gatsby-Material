@@ -5,7 +5,7 @@ module.exports = {
   plugins: [
     'gatsby-plugin-resolve-src',
     'gatsby-plugin-react-helmet',
-    'gatsby-plugin-offline',
+
     'gatsby-plugin-sass',
     'gatsby-plugin-htaccess',
     {
@@ -25,5 +25,6 @@ module.exports = {
       options: {
                },
       },
+      'gatsby-plugin-offline',
   ],
 }
