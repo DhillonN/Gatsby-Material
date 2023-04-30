@@ -22,7 +22,7 @@
     "@material-ui/styles": "^4.0.0-rc.0",
     "classnames": "^2.2.6",
     "core-js": "^2.6.5",
-    "gatsby": "^2.7.1",
+    "gatsby": "^2.32.13",
     "gatsby-plugin-htaccess": "^1.1.1",
     "gatsby-plugin-manifest": "^2.0.22",
     "gatsby-plugin-material-ui": "^2.0.0-beta.2",
